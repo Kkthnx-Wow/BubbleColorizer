@@ -1,0 +1,12 @@
+## Interface: 100206
+## Name: BubbleColorizer
+## Title: |cff669DFFBubbleColorizer|r
+## Notes: Enhance WoW chat bubbles with color. |n|n|cff669DFFDeveloper|cffffffff:|r |nJosh "|CFF7b8489Kkthnx|r" Russell|n|n|cff009cdePayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/KkthnxTV|r|n|n|cfff96854Patreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/Kkthnx|r
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
+## IconTexture: Interface\ICONS\UI_Chat.blp
+## X-Support: DF
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+Core.lua
